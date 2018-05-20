@@ -7,8 +7,8 @@ package com.youxiang.recursion;
 public class TriangularNumberSample01 {
 
     public static void main(String[] args) {
-        int n = 20;
-        System.out.println(triangle(5));
+        int n = 3;
+        System.out.println(triangle(n));
     }
 
     private static int triangle(int n) {
