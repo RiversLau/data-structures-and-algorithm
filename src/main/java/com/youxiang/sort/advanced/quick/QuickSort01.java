@@ -1,4 +1,4 @@
-package com.youxiang.sort.quick;
+package com.youxiang.sort.advanced.quick;
 
 /**
  * @author: Rivers
